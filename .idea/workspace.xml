@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bde548a-f87d-41d5-b946-2101978444c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/03_用户猜数字的小游戏-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_用户猜数字的小游戏.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/02_字符串拼接和严格字符串-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/02_字符串拼接和严格字符串-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_字符串拼接和严格字符串.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_字符串拼接和严格字符串.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,13 +122,27 @@
       <option name="project" value="LOCAL" />
       <updated>1559488836560</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2019 06 03">
+      <created>1559541161994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559541161994</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019 06 03">
+      <created>1559551998671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559551998671</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -153,7 +164,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="习题记录测试文件" />
     <MESSAGE value="2019 06 02 / 02基础ByWyb" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019 06 02 / 02基础ByWyb" />
+    <MESSAGE value="2019 06 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019 06 03" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BasicCode/Basic01.py">
